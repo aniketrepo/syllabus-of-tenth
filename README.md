@@ -11,5 +11,5 @@
 
 ## **Science**
 * [Circular](http://cbseacademic.nic.in/web_material/CurriculumMain22/termwise/Secondary/Science_Sec_2021-22.pdf)
-* [Plan]()
+* [Plan](https://github.com/aniketrepo/syllabus-of-tenth/blob/main/science-plan.md)
 
