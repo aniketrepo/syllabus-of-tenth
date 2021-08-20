@@ -1,0 +1,15 @@
+### ***TERM- 1***
+
+### ***Time- 90 Minutes***
+
+|NO.|UNIT NAME|MARKS|COMPLETED BY (DATE)|REVISION BY (DATE)|
+|---|---------|-----|-------------------|------------------|
+|I|NUMBER SYSTEMS|8|
+|II|ALGEBRA|5|
+|III|COORDINATE GEOMETRY|4|
+|IV|GEOMETRY|13|
+|V|MENSURATION|4|
+|VI|STATISTICS & PROBABILITY|6|
+||Total|40|
+||INTERNAL ASSESSMENT|10|
+||TOTAL|50|
