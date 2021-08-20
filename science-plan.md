@@ -2,9 +2,9 @@
 
 ### ***Time- 90 Minutes***
 
-|UNITS|TERM- 1|MARKS|COMPLETED BY (DATE)|REVISION BY (DATE)|
+|NO.|UNIT NAME|MARKS|COMPLETED BY (DATE)|REVISION BY (DATE)|
 |-----|-------|-----|-------------------|------------------|
-|I|Chemical Substances-Nature and Behaviour|16||
+|I|Chemical Substances- Nature and Behaviour|16||
 |-|Chapter- 1, Chemical Reactions and Equations|-|22 August, 2021|22 September, 2021|
 |-|Chapter- 2, Acids, Bases and Salts|-|22 August, 2021|22 September, 2021|
 |-|Chapter- 3, Metals and Non-metals|-||
