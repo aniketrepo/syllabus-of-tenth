@@ -9,14 +9,14 @@
 |II|ALGEBRA|5|
 |-|Linear Equation in Two Variables|-|
 |III|COORDINATE GEOMETRY|4|
-|-|Coordinate Geometry|-|
+|-|Coordinate Geometry|-|22 August, 2021|22 September, 2021|
 |IV|GEOMETRY|13|
-|-|Lines and Angles|-|
-|-|Triangles|-|
+|-|Lines and Angles|-|22 August, 2021|22 September, 2021|
+|-|Triangles|-|22 August, 2021|22 September, 2021|
 |V|MENSURATION|4|
-|-|Heron's Formula|-|
+|-|Heron's Formula|-|22 August, 2021|22 September, 2021|
 |VI|STATISTICS & PROBABILITY|6|
-|-|Statistics|-|
+|-|Statistics|-|22 August, 2021|22 September, 2021|
 ||Total|40|
 ||INTERNAL ASSESSMENT|10|
 ||TOTAL|50|
