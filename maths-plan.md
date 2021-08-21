@@ -7,7 +7,7 @@
 |I|NUMBER SYSTEMS|8|
 |-|Number System|-|
 |II|ALGEBRA|5|
-|-|Linear Equation in Two Variables|-|
+|-|Linear Equation in Two Variables|-|22 August, 2021|22 September, 2021|
 |III|COORDINATE GEOMETRY|4|
 |-|Coordinate Geometry|-|22 August, 2021|22 September, 2021|
 |IV|GEOMETRY|13|
