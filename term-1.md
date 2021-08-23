@@ -17,7 +17,7 @@
 
 ## **English**
 * [Circular](http://cbseacademic.nic.in/web_material/CurriculumMain22/termwise/Language-Secondary/English_Sec_2021-22.pdf)
-* [Plan]()
+* [Plan](https://github.com/aniketrepo/syllabus-of-tenth/blob/main/english-plan.md)
 
 ## **Hindi**
 * [Circular](http://cbseacademic.nic.in/web_material/CurriculumMain22/termwise/Language-Secondary/Hindi_B_Sec_2021-22.pdf)
