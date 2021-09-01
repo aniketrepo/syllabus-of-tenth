@@ -5,7 +5,7 @@
 |NO.|UNIT NAME|MARKS|COMPLETED BY (DATE)|REVISION BY (DATE)|
 |---|---------|-----|-------------------|------------------|
 |I|NUMBER SYSTEMS|8|
-|-|Number System|-|
+|-|Number System|-|1 September, 2021|22 September, 2021|
 |II|ALGEBRA|5|
 |-|Linear Equation in Two Variables|-|22 August, 2021|22 September, 2021|
 |III|COORDINATE GEOMETRY|4|
