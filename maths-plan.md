@@ -5,7 +5,7 @@
 |NO.|UNIT NAME|MARKS|COMPLETED BY (DATE)|REVISION BY (DATE)|
 |---|---------|-----|-------------------|------------------|
 |I|NUMBER SYSTEMS|8|
-|-|Number System|-|1 September, 2021|22 September, 2021|
+|-|Real Number|-|1 September, 2021|22 September, 2021|
 |II|ALGEBRA|5|
 |-|Linear Equation in Two Variables|-|22 August, 2021|22 September, 2021|
 |III|COORDINATE GEOMETRY|4|
@@ -13,7 +13,7 @@
 |IV|GEOMETRY|13|
 |-|Lines and Angles|-|22 August, 2021|22 September, 2021|
 |-|Triangles|-|22 August, 2021|22 September, 2021|
-|V|MENSURATION|4|
+|V|TRIGONOMETRY|4|
 |-|Heron's Formula|-|22 August, 2021|22 September, 2021|
 |VI|STATISTICS & PROBABILITY|6|
 |-|Statistics|-|22 August, 2021|22 September, 2021|
