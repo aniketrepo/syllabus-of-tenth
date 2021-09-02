@@ -7,16 +7,18 @@
 |I|NUMBER SYSTEMS|8|
 |-|Real Number|-|1 September, 2021|22 September, 2021|
 |II|ALGEBRA|5|
-|-|Linear Equation in Two Variables|-|22 August, 2021|22 September, 2021|
-|III|COORDINATE GEOMETRY|4|
+|-|Polynomials|-|22 August, 2021|22 September, 2021|
+|-|Pair of Leniar Equations in One Variable||22 August, 2021|22 September, 2021|
+|III|COORDINATE GEOMETRY|4| 
 |-|Coordinate Geometry|-|22 August, 2021|22 September, 2021|
 |IV|GEOMETRY|13|
-|-|Lines and Angles|-|22 August, 2021|22 September, 2021|
 |-|Triangles|-|22 August, 2021|22 September, 2021|
 |V|TRIGONOMETRY|4|
-|-|Heron's Formula|-|22 August, 2021|22 September, 2021|
-|VI|STATISTICS & PROBABILITY|6|
-|-|Statistics|-|22 August, 2021|22 September, 2021|
+|-|Introduction to Trigonometry|-|22 August, 2021|22 September, 2021|
+|VI|MENSURATION|4||
+|-|Areas related to Circles||1 September, 2021|22 September, 2021|
+|VII|STATISTICS & PROBABILITY|6|
+|-|Probability|-|22 August, 2021|22 September, 2021|
 ||Total|40|
 ||INTERNAL ASSESSMENT|10|
 ||TOTAL|50|
