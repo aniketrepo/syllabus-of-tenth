@@ -7,7 +7,7 @@
 |I|Chemical Substances- Nature and Behaviour|16||
 |-|Chapter- 1, Chemical Reactions and Equations|-|22 August, 2021|22 September, 2021|
 |-|Chapter- 2, Acids, Bases and Salts|-|22 August, 2021|22 September, 2021|
-|-|Chapter- 3, Metals and Non-metals|-||
+|-|Chapter- 3, Metals and Non-metals|-|3 September, 2021||
 |II|World of Living|10||
 |-|Chapter- 6, Life Processes|-|22 August, 2021|22 September, 2021|
 |III|Natural Phenomena|14||
