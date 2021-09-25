@@ -1,5 +1,5 @@
 ### ***Term- 1***
-### ***Exams will be held during the first week of November***
+### ***Exams are on the 6th of October, 2021***
 
 * [Main Circular](http://cbseacademic.nic.in/web_material/Circulars/2021/51_Circular_2021.pdf)
 
