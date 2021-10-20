@@ -83,7 +83,8 @@
 
 ## **Hindi**
 * [Circular](http://cbseacademic.nic.in/web_material/CurriculumMain22/termwise/Language-Secondary/Hindi_B_Sec_2021-22.pdf)
-* [Plan]()
+
+![alt image]()
 
 ## **Information Technology**
 * [Circular](http://cbseacademic.nic.in/web_material/Curriculum22/Skill/402-INFO_TECH_X.pdf)
