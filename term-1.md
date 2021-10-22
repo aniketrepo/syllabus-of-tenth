@@ -89,7 +89,7 @@
 * [Circular](http://cbseacademic.nic.in/web_material/Curriculum22/Skill/402-INFO_TECH_X.pdf)
 
 
-|PART|TERM|UNITS|MARKS|PRIORITY|REVISION BY (DATE)|
+|PART|TERM|UNITS|MARKS|PRIORITY|PREPARATION|REVISION BY (DATE)|
 |----|----|-----|-----|--------|------------------|
 |A|TERM-1|UNIT-1 COMMUNICATION SKILLS|-|||
 |-|-|UNIT-2 SELF MANAGEMENT SKILLS|-|||
